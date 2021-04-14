@@ -1,4 +1,4 @@
-* My favorite things
+_**My favorite things**_
 
    * My favorite movie: 3 Idiots
    * My favorite ice cream flavor: Chocolate
