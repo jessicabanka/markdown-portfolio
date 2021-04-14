@@ -1,4 +1,4 @@
-* SKILLS
+_**SKILLS**_
 
   * C/C++
   * HTML
