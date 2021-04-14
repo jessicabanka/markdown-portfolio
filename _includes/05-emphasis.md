@@ -1,10 +1,10 @@
-*SKILLS
+* SKILLS
 
-  *C/C++
-  *HTML
-  *CSS
-  *BOOTSTRAP
-  *Web Development
+  * C/C++
+  * HTML
+  * CSS
+  * BOOTSTRAP
+  * Web Development
 
   
   
