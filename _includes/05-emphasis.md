@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+<h1>SKILLS</h1>
+<ul>
+  <li>C/C++</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>BOOTSTRAP</li>
+  <li>Web Development</li>
+</ul>
+  
+  
