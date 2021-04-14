@@ -1,4 +1,4 @@
-<h1>SKILLS</h1>
+*SKILLS
 
   *C/C++
   *HTML
